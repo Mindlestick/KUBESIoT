@@ -1,2 +1,2 @@
-# KUBESIoT
-KUBESIoT(Kickboard Use to Be Safe, IoT)
+# LION
+LION(Light Communication IoT)
