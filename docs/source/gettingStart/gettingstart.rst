@@ -5,14 +5,14 @@ Getting Start
 Download our project on GitHub
 ==============================
 
-* To start, sign in to GitHub and navigate to the K-afegory-Opinion-Mining-by-Sentiment-Analysis-Based-on-Naver-Blog, where you will see a green ``Code`` button.
+* To start, sign in to GitHub and navigate to the LION, where you will see a green ``Code`` button.
 * After that, click on the ``Download ZIP`` category button.
 * If you follow this procedure to download the compressed download folder, you will see the following files :
 ``docs``
     This is a folder containing documents written in 'reStructuredText' for our open source project.
 
-``source``
-    It contains our project's web source file and sentiment analysis source file.
+``source/server``
+    This contains the server source files for our project.
 
 ``LICENSE``
     Apache License Version 2.0
