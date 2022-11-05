@@ -25,9 +25,3 @@ Welcome to LION's documentation!
 
    gettingStart/howto
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
