@@ -19,12 +19,3 @@ Download our project on GitHub
 
 ``README.md``
     Basic description of our open source project, you will leave it untouched.
-
-
-
-
-Use our project for your work
-==============================
-
-Our project has a huge range of applications.
-If our project fits the field you want to use, apply it now.
