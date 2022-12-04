@@ -30,11 +30,11 @@ If you follow this procedure to download the compressed download folder, you wil
 ``README.md``
     Basic description of our open source project, you will leave it untouched.
 
-[LION-Download]: https://github.com/Mindlestick/LION/archive/refs/heads/main.zip
-
 
 ## Documentation
 
 > **Read the Docs** here — [LION-Read The Docs][LION-docs-organization]
 
+
+[LION-Download]: https://github.com/Mindlestick/LION/archive/refs/heads/main.zip
 [LION-docs-organization]: https://mindlestick-lion.readthedocs.io/

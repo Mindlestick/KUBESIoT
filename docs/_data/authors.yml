@@ -25,7 +25,7 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         <username>
+    #twitter:         <username>
     github:          Mindlestick/LION
     # email:           <mail@domain.tld>
     # rss:             https://<url>/feed.xml
@@ -68,7 +68,7 @@ author1:
 # Another author (optional)
 author2:
   name:              Eom Yerim
-  email:             <mail@domain.tld>
+  email:             djadpfa1002@gmail.com
   about:             |
     Lorem ipsum dolor sit amet, consectetur adipiscing elit,
     sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -77,5 +77,5 @@ author2:
     Open `_data/authors.yml` to edit this text.
 
   picture:           https://placehold.it/128x128
-  twitter:           <username>
+#twitter:           <username>
   github:            EomYerim
