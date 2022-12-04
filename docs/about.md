@@ -1,9 +1,8 @@
 ---
 layout: about
-image: /assets/img/blog/hydejack-9.jpg
+image: /assets/img/logo.png
 description: >
-  A boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  We developed an ultra-light IoT platform for device support in C language in accordance with the oneM2M international standard, implemented it to operate efficiently, and displayed the result in the developed resource browser.
 hide_description: true
 redirect_from:
   - /download/
@@ -13,7 +12,25 @@ redirect_from:
 
 <!--author-->
 
-## Hydejack
+## Download
+
+* To start, sign in to GitHub and navigate to the [LION][LION-organization], where you will see a green ``Code`` button.
+* After that, click on the ``Download ZIP`` category button.
+* If you follow this procedure to download the compressed download folder, you will see the following files :
+``docs``
+    This is a folder containing documents written in 'reStructuredText' for our open source project.
+
+``source/server``
+    This contains the server source files for our project.
+
+``LICENSE``
+    Apache License Version 2.0
+
+``README.md``
+    Basic description of our open source project, you will leave it untouched.
+
+[LION-organization]: https://github.com/Mindlestick/LION
+
 
 A boutique Jekyll theme for hackers, nerds, and academics.  
 {:.lead}

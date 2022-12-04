@@ -25,8 +25,8 @@ title:                 LION
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  In the case of the existing IoT platform, it was difficult to operate dynamically because it was made up of Java and various functions were included.
+  We developed an ultra-light IoT platform for device support in C language in accordance with the oneM2M international standard, implemented it to operate efficiently, and displayed the result in the developed resource browser.
 
 # A shorter description for the sidebar.
 tagline:               Light Communication IoT
@@ -42,19 +42,20 @@ logo:                  /assets/img/logo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                <Park> <Minji>
+  email:               <iorw0224@gmail.com>
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
-    url:               /example/
-  - title:             Documentation
-    url:               /docs/
   - title:             About
     url:               /about/
+  - title:             Features
+    url:               /features/
+  - title:             Contact Us
+    url:               /contact/
+
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
