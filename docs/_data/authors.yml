@@ -62,7 +62,7 @@ author1:
     # delicious:       <username>
     # stumbleupon:     <username>
     # paypal:          <username>
-    # download:        <url>
+    download:        https://github.com/Mindlestick/LION/archive/refs/heads/main.zip
     # keybase          <username>
 
 # Another author (optional)
