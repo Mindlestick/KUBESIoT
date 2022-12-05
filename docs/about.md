@@ -12,11 +12,16 @@ redirect_from:
 
 <!--author-->
 
+## Mission Statement
+> We developed an ultra-light IoT platform for device support in C language in accordance with the oneM2M international standard, implemented it to operate efficiently.
+
+
 ## Download
 
 > **Download** here — [LION Download][LION-Download]
 
 <br/>
+
 If you follow this procedure to download the compressed download folder, you will see the following files :
 ``docs``
     This is a folder containing documents written in 'reStructuredText' for our open source project.

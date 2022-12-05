@@ -18,12 +18,12 @@ LION has adopted the [Contributor Covenant Code of Conduct][code-of-conduct].
 
 #### Discord server
 
-On the [LION Discord server][discord], you can chat with members of the Redis community in real time. You'll meet Redis users, contributors, and developer advocates. This is a great place to stop in for quick questions or to share your latest LION discoveries.
+On the [LION Discord server][discord], you can chat with members of the LION community in real time. You'll meet LION users, contributors, and developer advocates. This is a great place to stop in for quick questions or to share your latest LION discoveries.
 
 [discord]:https://discord.gg/2UBzbRzP
 
 #### Mailing list
 
-Join the [LION mailing list][mailing] to discuss the ongoing development of Redis and to find out about new Redis releases.
+Join the [LION mailing list][mailing] to discuss the ongoing development of LION and to find out about new LION releases.
 
 [mailing]:https://groups.google.com/g/lion-iot
