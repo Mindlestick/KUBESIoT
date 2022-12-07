@@ -22,7 +22,7 @@ We developed an ultra-light IoT platform for device support in C language in acc
 
 > **Download** here — [LION Download][LION-Download]
 
-If you follow this procedure to download the compressed download folder, you will see the following files : 
+If you follow this procedure to download the compressed download folder, you will see the following files : <br>
 ``docs``
     This is a folder containing documents written in 'reStructuredText' for our open source project.
 
